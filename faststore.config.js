@@ -1,7 +1,7 @@
 
 module.exports = {
   seo: {
-  "title": "FastStore Edu",
+  "title": "FastStore Eduu",
   "description": "A fast and performant store framework",
   "titleTemplate": "%s | FastStore",
   "author": "Eduardo"
