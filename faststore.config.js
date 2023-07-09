@@ -1,14 +1,14 @@
 
 module.exports = {
   seo: {
-  "title": "FastStore Eduu",
+  "title": "FastStore Edu",
   "description": "A fast and performant store framework",
   "titleTemplate": "%s | FastStore",
   "author": "Eduardo"
 },
 
   // Theming
-  theme: 'custom-theme',
+  theme: 'soft-blue',
 
   // Ecommerce Platform
   platform: 'vtex',
@@ -66,4 +66,11 @@ module.exports = {
     // https://developers.google.com/tag-platform/tag-manager/web#standard_web_page_installation,
     gtmContainerId: "",
   },
+  account: "desafioonboarding30",
+  
+  vtexHeadlessCms: {
+    webhookUrls: [
+      "https://desafioonboarding30.myvtex.com/cms-releases/webhook-releases"
+    ]
+  }
 }
