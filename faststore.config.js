@@ -18,7 +18,7 @@ module.exports = {
     storeId: "desafioonboarding30",
     workspace: 'master',
     environment: 'vtexcommercestable',
-    hideUnavailableItems: true,
+    hideUnavailableItems: false,
   },
 
   // Default session
