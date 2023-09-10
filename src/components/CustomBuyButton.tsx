@@ -15,3 +15,5 @@ export function CustomBuyButton(props: ButtonProps) {
     </UIButton>
   )
 }
+
+//cria botao custom de buy
