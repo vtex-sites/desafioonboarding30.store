@@ -728,10 +728,10 @@
     isomorphic-unfetch "^3.1.0"
     p-limit "^3.1.0"
 
-"@faststore/cli@^2.1.11":
-  version "2.1.11"
-  resolved "https://registry.yarnpkg.com/@faststore/cli/-/cli-2.1.11.tgz#747ec367be9f56b05735596c0db6cc63750b8684"
-  integrity sha512-vEIVSxe4yeRwGrt5BAw6M0e1beKC0xETM8eCA+MiQ9RXgfjWs7Z7izfBIuuKMQtRdYOWUE459Iaii+becNHzkA==
+"@faststore/cli@^2.1.106":
+  version "2.1.106"
+  resolved "https://registry.yarnpkg.com/@faststore/cli/-/cli-2.1.106.tgz#2f8edfdd07429ad9f5827edff99c6786bf1c4ac6"
+  integrity sha512-/fguKkt8h1ugu8SkzbR6aCBwip/kBpmXkRFslpX4oUpJ3ctJ53JBKSy0KCAsw/yDMLU7HR+UocNrd3gl6dhltw==
   dependencies:
     "@oclif/core" "^1.16.4"
     "@oclif/plugin-help" "^5"
